@@ -1,0 +1,16 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ text-align: center;
+}
+.error{
+	color: red;
+	font-size: 26px;
+}
+.success{
+	color:green;
+	font-size: 30px;
+}
+div{
+	margin: 10px;
+}
